@@ -8,7 +8,7 @@
 cd $(dirname $0)
 
 git add .
-git commit -m "update $(date +%F %T)"
+git commit -m "update $(date +'%F %T')"
 git push origin master
 
 coscmd upload config.js config.js
