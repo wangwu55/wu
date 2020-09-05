@@ -1,1 +1,1 @@
-var baseApiUrl = "https://api.baobeizxvip.com";
+var baseApiUrl = "https://api.gvnhjgjemaig.com";
